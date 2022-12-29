@@ -3,6 +3,8 @@
   "block.testmod.fast_sand": "Quicksand",
   "block.testmod.jump_block": "Jump Block",
   "item.testmod.kill_gem": "Kill Gem",
+  "item.testmod.jump_wand": "Jump Wand",
+  "item.testmod.self_jump_wand": "Self Jump Wand",
   "itemGroup.blocks_tab": "Blocks",
   "itemGroup.items_tab": "Items"
 }
