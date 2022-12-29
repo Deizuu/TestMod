@@ -1,0 +1,8 @@
+{
+  "block.testmod.construction_block": "Construction Block",
+  "block.testmod.fast_sand": "Quicksand",
+  "block.testmod.jump_block": "Jump Block",
+  "item.testmod.kill_gem": "Kill Gem",
+  "itemGroup.blocks_tab": "Blocks",
+  "itemGroup.items_tab": "Items"
+}
