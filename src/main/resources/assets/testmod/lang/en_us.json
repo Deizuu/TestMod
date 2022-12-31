@@ -5,6 +5,7 @@
   "item.testmod.kill_gem": "Kill Gem",
   "item.testmod.jump_wand": "Jump Wand",
   "item.testmod.self_jump_wand": "Self Jump Wand",
+  "item.testmod.tnt_launcher": "Tnt Launcher",
   "itemGroup.blocks_tab": "Blocks",
   "itemGroup.items_tab": "Items"
 }

@@ -2,6 +2,7 @@ package deizu.testmod.testmod;
 
 import deizu.testmod.testmod.core.ModBlocks;
 import deizu.testmod.testmod.core.ModItems;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;

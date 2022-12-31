@@ -4,6 +4,7 @@ import deizu.testmod.testmod.core.customblocks.SelfJumpWandItem;
 import deizu.testmod.testmod.core.customitems.KillGemItem;
 import deizu.testmod.testmod.Testmod;
 import deizu.testmod.testmod.core.customitems.JumpWandItem;
+import deizu.testmod.testmod.core.customitems.LauncherItem;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.registries.DeferredRegister;
@@ -31,4 +32,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> SELF_JUMP_WAND = ITEMS.register("self_jump_wand", () ->
             new SelfJumpWandItem(new Item.Properties().tab(CreativeTab.ITEMS_TAB)));
+
+    public static final RegistryObject<Item> TNT_LAUNCHER = ITEMS.register("tnt_launcher", () ->
+            new LauncherItem(new Item.Properties().tab(CreativeTab.ITEMS_TAB)));
 }
