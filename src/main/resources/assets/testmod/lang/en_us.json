@@ -6,6 +6,8 @@
   "item.testmod.jump_wand": "Jump Wand",
   "item.testmod.self_jump_wand": "Self Jump Wand",
   "item.testmod.tnt_launcher": "Tnt Launcher",
+  "item.testmod.push_wand": "Push Wand",
+  "item.testmod.propulser": "Propulser",
   "itemGroup.blocks_tab": "Blocks",
   "itemGroup.items_tab": "Items"
 }
